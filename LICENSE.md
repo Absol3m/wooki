@@ -1,3 +1,6 @@
+Wooki 3D printer by Thibaut Pral (tpra)
+Copyright (C) 2015
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
